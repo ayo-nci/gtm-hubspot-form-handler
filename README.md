@@ -43,12 +43,5 @@ This trigger can then be used for conversion tags, custom HTML events, or any ot
 
 ## License
 
-MIT License - See LICENSE file for details
+Free for use. 
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Credits
-
-Created by Ayoola Idris-Animashaun
